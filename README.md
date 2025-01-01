@@ -71,4 +71,4 @@ To use any of the data structures or algorithms in this repository, simply navig
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dsa-repository.git
+   git clone https://github.com/AmeyYarnalkar/dsa.git
